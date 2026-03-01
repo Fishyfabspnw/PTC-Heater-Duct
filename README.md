@@ -40,7 +40,6 @@ Seam: Back
 1. Prep SLM/Laser Cut part by tapping. <img width="1039" height="917" alt="image" src="https://github.com/user-attachments/assets/2e84aacb-9814-4255-a9f9-e11380a2e627" /> <img width="969" height="758" alt="image" src="https://github.com/user-attachments/assets/0f2a67a4-1bed-4a92-8195-eb727de31ff8" />
 2. Implement a 121c thermal cutoff fuse to the power loop. Safely drill a hole through the fins in the PTC-Heater to allow for a thermistor to be placed into the fins, apply boron nitrade paste into the hole and then insert the thermistor. (i drilled and used a rivet, and ring terminal around the rivot then attatched the 121c thermal cutoff fuse to that and bent it so it was making contact with the heater, apply Red RTV sealant here if needed.). <img width="611" height="822" alt="image" src="https://github.com/user-attachments/assets/8c193b3a-4fa7-438e-8158-f47c08954f79" />
 
-4. Apply Boron Nitrade paste into the hole before embedding the thermistor. 
 5. Mount standoff's on the orginal PTC Heater shroud with the M4x8mm SHCS.<img width="898" height="809" alt="image" src="https://github.com/user-attachments/assets/e7f8abe6-c6f7-47a2-ad77-4d417c8de0cd" />
 
 6. Mount the SLM printed duct to the other side of the standoff with the M4x8mm SHCS.<img width="989" height="901" alt="image" src="https://github.com/user-attachments/assets/9c02544d-4e40-4238-9660-f6562a9382f9" />
