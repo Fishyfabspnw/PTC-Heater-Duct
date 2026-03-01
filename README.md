@@ -72,6 +72,7 @@ Seam: Back
 
 * `Cad` – STEP CAD exports.
 *  `SLM` – SLM Parts.
+*  `STL` – 3d Printed Part.
 *  `Laser Cut Part` – Sheet Metal Parts.
 * `BOM.md` – bill of materials with suppliers/part numbers.
 
